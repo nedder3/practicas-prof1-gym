@@ -6,6 +6,9 @@
 **Sistema de Pagos:** Una plataforma externa (como Mercado Pago o un banco) que procesa el dinero.
 
 
+
+
+
 **Flujos de Entrada (Hacia el Sistema):**
 **De Socio:** Consultar horarios de clases o intentar apuntarse a una.
 
@@ -14,6 +17,9 @@
 **De Recepcionista:** Registrar un nuevo pago manualmente o actualizar el plan de un socio.
 
 **De Sistema de Pagos:** Enviar una confirmación de que un pago automático fue exitoso.
+
+
+
 
 
 **Flujos de Salida (Desde el Sistema):**
@@ -31,6 +37,7 @@
 
 
 ![Diagrama de contexto](diagrama_contexto.png)
+
 
 
 
