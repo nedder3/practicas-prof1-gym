@@ -29,7 +29,8 @@
 **Hacia Sistema de Pagos:** Enviar una solicitud para cobrar la cuota mensual de un socio.
 
 
-![Diagrama de contexto](diagrama_contexto.png)
+![Diagrama de contexto](diagrama_contexto1.png)
+
 
 
 
